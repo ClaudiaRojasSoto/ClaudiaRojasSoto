@@ -13,11 +13,4 @@ Hi there 👋
 
 ![Snake animation](https://github.com/ClaudiaRojasSoto/ClaudiaRojasSoto/blob/output/github-contribution-grid-snake.svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
