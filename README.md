@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I’m currently working on React | Redux projects<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Ruby<br>💬 ask me about something you want to learn that I can teach you<br>⚡ Fun fact: I started studying architecture at the university, <br>I graduated as a journalist, <br>I worked as a teacher <br>and the truth is that I AM A PROGRAMMER 
+🔭 I’m currently working on React | Redux projects<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Ruby<br>💬 Ask me about something you want to learn that I can teach you<br>⚡ Fun fact: I started studying architecture at the university, <br>I graduated as a journalist, <br>I worked as a teacher <br>and the truth is that I AM A PROGRAMMER 
 
 </div>
 <br/>
