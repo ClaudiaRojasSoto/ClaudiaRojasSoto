@@ -22,9 +22,9 @@
 <br/>
 
 # 📊 GitHub Stats:
+
 [![](https://github-readme-stats.vercel.app/api?username=ClaudiaRojasSoto&show_icons=true&theme=dark)](https://github.com/ClaudiaRojasSoto/github-readme-stats)
 <br/>
-
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=ClaudiaRojasSoto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br/>
