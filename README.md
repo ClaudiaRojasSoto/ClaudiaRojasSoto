@@ -23,6 +23,8 @@
 
 # 📊 GitHub Stats:
 
+[![committers.top badge](https://user-badge.committers.top/chile/ClaudiaRojasSoto.svg)](https://user-badge.committers.top/chile/ClaudiaRojasSoto)
+
 ![](https://github-readme-stats.vercel.app/api?username=ClaudiaRojasSoto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br/>
 <br/>
