@@ -34,6 +34,11 @@
 <br/>
 <br/>
 
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/ClaudiaRojasSoto/ClaudiaRojasSoto/output/github-contribution-grid-snake.svg)
+<br/>
+<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
