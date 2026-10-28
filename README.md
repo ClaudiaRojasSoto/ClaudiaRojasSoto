@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif" width="100%" alt="coding" />
+  <img src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif" width="50%" alt="coding" />
 </p>
 
 # 💫 About Me:
