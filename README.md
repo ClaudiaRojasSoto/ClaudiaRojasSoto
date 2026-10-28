@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif" width="100%" alt="coding" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Ruby | React projects<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Data Science<br>💬 Ask me about something you want to learn that I can teach you<br>⚡ Fun fact: I started studying architecture at the university, <br>I graduated as a journalist, <br>I worked as a teacher <br>and the truth is that I AM A DEVELOPER 
 
