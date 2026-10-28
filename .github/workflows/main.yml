@@ -1,16 +1,20 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -25,3 +29,11 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch output branch
+        run: git fetch origin output:refs/remotes/origin/output
+
+      - uses: Goblinlordx/commit-invaders@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ClaudiaRojasSoto
