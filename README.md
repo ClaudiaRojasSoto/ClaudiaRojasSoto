@@ -34,11 +34,11 @@
 <br/>
 <br/>
 
-## 🐍 Contribution Snake
+## 👾 Commit Invaders
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudiaRojasSoto/ClaudiaRojasSoto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaudiaRojasSoto/ClaudiaRojasSoto/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ClaudiaRojasSoto/ClaudiaRojasSoto/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudiaRojasSoto/ClaudiaRojasSoto/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaudiaRojasSoto/ClaudiaRojasSoto/output/commit-invaders.svg">
+  <img alt="Commit Invaders animation" src="https://raw.githubusercontent.com/ClaudiaRojasSoto/ClaudiaRojasSoto/output/commit-invaders.svg">
 </picture>
 <br/>
 <br/>
