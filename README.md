@@ -1,18 +1,22 @@
-<div align="center">
+<table border="0" cellpadding="0" cellspacing="16" align="center" width="100%">
+  <tr>
+    <td width="62%" valign="top">
+      <h2>💫 About Me:</h2>
+      <ul>
+        <li>🔭 I’m currently working on Ruby | React projects</li>
+        <li>👯 I’m looking to collaborate on open-source projects</li>
+        <li>🌱 I’m currently learning Data Science</li>
+        <li>💬 Ask me about something you want to learn that I can teach you</li>
+        <li>⚡ Fun fact: I started studying architecture at the university, I graduated as a journalist, I worked as a teacher and the truth is that I AM A DEVELOPER</li>
+      </ul>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif" width="370" alt="coding" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif" width="50%" alt="coding" />
-</p>
-
-# 💫 About Me:
-🔭 I’m currently working on Ruby | React projects<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Data Science<br>💬 Ask me about something you want to learn that I can teach you<br>⚡ Fun fact: I started studying architecture at the university, <br>I graduated as a journalist, <br>I worked as a teacher <br>and the truth is that I AM A DEVELOPER 
-
-</div>
-<br/>
-
-<div align="center">
-  
-## 🌐 Socials:
+  <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100012739752060) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/claudia-rojas-soto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@claudiarojassoto) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/CLAUDIAROJAS197) 
 
